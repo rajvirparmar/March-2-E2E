@@ -1,0 +1,7 @@
+14:00:56.489 [main] INFO  utilities.TestBase - Browser Opened Successfully
+14:01:00.626 [main] INFO  utilities.TestBase - Browser maximised Successfully
+14:01:00.629 [main] INFO  utilities.TestBase - Wait implemented Successfully
+14:01:01.362 [main] INFO  utilities.TestBase - Application navigated Successfully
+14:01:01.470 [main] INFO  utilities.TestBase - Username entered Successfully
+14:01:01.544 [main] INFO  utilities.TestBase - Password entered Successfully
+14:01:01.785 [main] INFO  utilities.TestBase - Submit button pressed Successfully

@@ -1,0 +1,9 @@
+14:01:01.828 [main] INFO  utilities.TestBase - Message Verified Successfully
+14:01:01.987 [main] INFO  utilities.TestBase - Browser closed Successfully
+14:01:46.827 [main] INFO  utilities.TestBase - Browser Opened Successfully
+14:01:50.974 [main] INFO  utilities.TestBase - Browser maximised Successfully
+14:01:50.978 [main] INFO  utilities.TestBase - Wait implemented Successfully
+14:01:51.502 [main] INFO  utilities.TestBase - Application navigated Successfully
+14:01:51.592 [main] INFO  utilities.TestBase - Username entered Successfully
+14:01:51.662 [main] INFO  utilities.TestBase - Password entered Successfully
+14:01:51.977 [main] INFO  utilities.TestBase - Submit button pressed Successfully

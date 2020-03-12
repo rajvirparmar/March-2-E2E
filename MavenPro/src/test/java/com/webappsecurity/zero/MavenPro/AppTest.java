@@ -69,6 +69,7 @@ public class AppTest
 				log.info("Browser closed Successfully");
 				//log.fatal("Browser DID NOT closed Successfully");
 				break;
+				//comment2:25pm
 			}
 		}
 	}
